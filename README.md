@@ -1,2 +1,2 @@
 # Greenhouse-project
-Remote control greenhouse temperature and humidity, with master and slaves
+Remote control temperature and humidity greenhouse, with master and slaves
