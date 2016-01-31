@@ -1,0 +1,6 @@
+CREATE TABLE IF NOT EXISTS `name_table` (
+  `id` int(11) NOT NULL,
+  `date` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
+  `parameter1` float NOT NULL,
+  `parameter2` float NOT NULL
+) ENGINE=MyISAM DEFAULT CHARSET=utf8;
