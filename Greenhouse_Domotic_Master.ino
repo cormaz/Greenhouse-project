@@ -3,7 +3,7 @@
 /*Autors: La Mura Antonio, Festa Umberto*/
 
 /*Temperature and humidity control with DHT22 sensor*/
-/*Master communicates with webserver via WiFi, using CC3000 shield. It sends datas which are received from Slave, to DataBase. (You can see how it works on www.cormaz.altervista.org)*/
+/*Master communicates with webserver via WiFi, using CC3000 shield. It sends datas which are received from Slave, to DataBase. (You can see how it works on http://www.cormaz.altervista.org/index.php/blog-fire-garden)*/
 /*Master receives datas from Slave via Wireless at 2.4[GHz], with NFR24L01 sensor and if it is necessary, it can send new thresholds of temperature and humidity*/
 
 /*Master: Arduino Mega - Slave: Arduino UNO*/
