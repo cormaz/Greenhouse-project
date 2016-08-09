@@ -1,4 +1,4 @@
-# Greenhouse-project
+# Greenhouse-project 1.0
 Remote temperature and humidity greenhouse control, with master and slaves
 
 Project Domotic Greenhouse
